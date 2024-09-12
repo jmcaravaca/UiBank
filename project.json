@@ -44,12 +44,20 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
+        "testCaseId": "3c6b613b-15bd-4563-82d5-027f9b3e507d",
+        "dataVariationFilePath": ".variations\\TestDataExample_Data.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCaseAccountExists.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
         "testCaseId": "d8d7a359-5a8d-43b9-901c-09925340ba46",
         "dataVariationFilePath": ".variations\\TestDataExample_Data.json",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase.xaml"
+        "fileName": "TestCaseMinBalance.xaml"
       }
     ],
     "modernBehavior": true,
