@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="P_4FtYvgG0SWMN_l8IO2Ow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://uibank.uipath.com/accounts" CVScreenId="33f1486c-6e60-4673-a66c-9020a02874f8" CvTextArea="436, 483, 141, 20" CvTextArgument="Primary Account" CvType="Text" DesignTimeRectangle="437, 480, 139, 23" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='STRONG' aaname='{0}' /&gt;&quot;, in_AccountName)]" FuzzyAccuracy="1" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl tag='STRONG' type='' class='' aaname='{0}' check:innerText='{0}' /&gt;&quot;, in_AccountName)]" Guid="8e47221a-dcce-4f1e-aa0e-2922e5bb6b79" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank - Accounts' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4917c1b84a32aedbf692c6328b86f1ad.png" xmlns="">07xU_-HMcMUyneu_R2Oz_Hw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Primary Account" IsVariable="False" Name="in_AccountName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
