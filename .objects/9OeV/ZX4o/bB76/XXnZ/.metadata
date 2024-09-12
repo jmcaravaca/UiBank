@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check App State 'Logout'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "XXnZhRwWBEyqMsAGao0yrQ",
+  "Reference": "Jn9OZ2eGgkSLO2lAm5zGIA/XXnZhRwWBEyqMsAGao0yrQ",
+  "ParentRef": "Jn9OZ2eGgkSLO2lAm5zGIA/bB76HoVMAEeKZap2CN51Yg",
+  "Created": "2024-09-12T13:58:57.9447799Z",
+  "Updated": "2024-09-12T13:58:57.9447799Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

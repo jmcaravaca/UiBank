@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome UiBank-Welcome",
+  "Type": "Screen",
+  "Id": "bB76HoVMAEeKZap2CN51Yg",
+  "Reference": "Jn9OZ2eGgkSLO2lAm5zGIA/bB76HoVMAEeKZap2CN51Yg",
+  "ParentRef": "Jn9OZ2eGgkSLO2lAm5zGIA/ZX4oWkmwvU-obhMbq06dug",
+  "Created": "2024-09-12T13:56:59.21751Z",
+  "Updated": "2024-09-12T13:56:59.21751Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

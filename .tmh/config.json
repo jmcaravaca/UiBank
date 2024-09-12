@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/minsacsvndlb/AICenterTests/testmanager_",
+  "defaultProject": {
+    "id": "c6789947-6c43-0000-a0b0-0b474471cb81",
+    "name": "DemoMainframe",
+    "key": "DMFM"
+  }
+}
