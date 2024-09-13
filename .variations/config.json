@@ -3,6 +3,10 @@
     {
       "filePath": ".variations\\TestDataExample_Data.json",
       "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\TestDataExample_SSHDATALOGIN.json",
+      "dataVariationType": "File"
     }
   ]
 }

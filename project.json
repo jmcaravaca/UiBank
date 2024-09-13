@@ -7,7 +7,8 @@
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.System.Activities": "[24.10.5]",
     "UiPath.Testing.Activities": "[24.10.1]",
-    "UiPath.UIAutomation.Activities": "[24.10.3]"
+    "UiPath.UIAutomation.Activities": "[24.10.3]",
+    "UiPathTeam.SSHConnector.Activities": "[2.1.2]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -58,6 +59,14 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TestCaseMinBalance.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "e58f19f7-f91a-42cd-ade0-67b94528adee",
+        "dataVariationFilePath": ".variations\\TestDataExample_SSHDATALOGIN.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCaseLoginStatusSSH.xaml"
       }
     ],
     "modernBehavior": true,
