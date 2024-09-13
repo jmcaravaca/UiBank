@@ -7,6 +7,10 @@
     {
       "filePath": ".variations\\TestDataExample_SSHDATALOGIN.json",
       "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\TestDataExample_SSHDATATRANSACTION.json",
+      "dataVariationType": "File"
     }
   ]
 }

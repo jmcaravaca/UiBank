@@ -67,6 +67,14 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TestCaseLoginStatusSSH.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "5dd80828-db1a-437f-a0d6-ba15e91bba87",
+        "dataVariationFilePath": ".variations\\TestDataExample_SSHDATATRANSACTION.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCaseSSHTransactions.xaml"
       }
     ],
     "modernBehavior": true,
